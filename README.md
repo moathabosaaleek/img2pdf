@@ -12,7 +12,7 @@ Whether you're archiving scanned documents, compiling photo albums, or preparing
 
 ### Download Binary (No Python Required)
 
-Grab the latest binary for your OS from the [Releases](https://github.com/0xs3c/img2pdf/releases/latest) page:
+Grab the latest binary for your OS from the [Releases](https://github.com/moathabosaaleek/img2pdf/releases/latest) page:
 
 | Platform | Download |
 |----------|----------|
@@ -30,7 +30,7 @@ chmod +x img2pdf-*
 
 ### Install from Source
 ```bash
-git clone https://github.com/0xs3c/img2pdf.git
+git clone https://github.com/moathabosaaleek/img2pdf.git
 cd img2pdf
 pip install -e .
 ```
